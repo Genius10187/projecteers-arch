@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5974e97-b627-4c19-bb5f-54317adb98dc" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/woodson/Math/Geometry.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Josh.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/woodson/Physics/Physics.java" afterPath="$PROJECT_DIR$/src/main/java/edu/woodson/Math/Physics.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/woodson/Math/Physics.java" afterPath="$PROJECT_DIR$/src/main/java/edu/woodson/Math/Physics.java" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -66,11 +66,11 @@
       <file leaf-file-name="Physics.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/woodson/Math/Physics.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="228">
+              <caret line="12" column="80" lean-forward="false" selection-start-line="12" selection-start-column="80" selection-end-line="12" selection-end-column="80" />
               <folding>
-                <element signature="e#361#362#0" expanded="true" />
-                <element signature="e#407#408#0" expanded="true" />
+                <element signature="e#629#630#0" expanded="true" />
+                <element signature="e#675#676#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -80,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/woodson/Math/Geometry.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+              <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -811,7 +811,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517959434481</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Renamed physics package to &quot;Math&quot;. Added Geometry class">
+      <created>1517963329125</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1517963329125</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers>
       <GitHub shared="false" url="https://github.com">
         <option name="assignedIssuesOnly" value="false" />
@@ -903,7 +910,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Random files created by the IDE" />
     <MESSAGE value="Created a Physics package (wasn't sure what to call it) and a Physics class." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created a Physics package (wasn't sure what to call it) and a Physics class." />
+    <MESSAGE value="Renamed physics package to &quot;Math&quot;. Added Geometry class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renamed physics package to &quot;Math&quot;. Added Geometry class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1215,18 +1223,18 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/woodson/Math/Geometry.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/woodson/Math/Physics.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="228">
+          <caret line="12" column="80" lean-forward="false" selection-start-line="12" selection-start-column="80" selection-end-line="12" selection-end-column="80" />
           <folding>
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
           </folding>
         </state>
       </provider>
