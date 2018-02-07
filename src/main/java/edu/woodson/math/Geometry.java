@@ -1,4 +1,4 @@
-package edu.woodson.Math;
+package edu.woodson.math;
 
 public class Geometry {
 }
