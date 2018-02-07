@@ -1,4 +1,4 @@
-package edu.woodson.Physics;
+package edu.woodson.Math;
 
 public class Physics {
     private static final double GRAVIATAIONAL_CONSTATNT = 0.0000000000674;
