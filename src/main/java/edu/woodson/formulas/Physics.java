@@ -19,4 +19,14 @@ public class Physics {
         return GRAVITATIONAL_CONSTANT * ((m1 * m2) / Math.pow(r, 2));
     }
 
+    /**
+     *
+     * @param radius - radius of the circular opening of the pipe (Must be in Meters)
+     * @param velocity - velocity of the water flow (Must be in m/s)
+     * @return the pipe's rate of flow in (L/s)
+     */
+    public static double findPipeFlowRate(double radius, double velocity) {
+        return Geometry.findCircleArea(radius) * velocity;
+    }
+
 }

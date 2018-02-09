@@ -15,4 +15,13 @@ public class Geometry {
     public static double findCircleCircumference(double radius) {
         return 2 * Math.PI * radius;
     }
+
+    /**
+     *
+     * @param radius - the radius of the circle
+     * @return the area of the circle in the units of the radius
+     */
+    public static double findCircleArea(double radius) {
+        return Math.PI * Math.pow(radius, 2);
+    }
 }
